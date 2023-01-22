@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DHoogland
-- 👀 I’m interested in DevOps
-- 🌱 I’m currently learning CKA
-- 💞️ I’m looking to collaborate on FiveM Server development
+- 👀 I’m interested in DevOps, recently got CKA certficied
+- 🌱 I’m currently working on App Development
+- 💞️ I’m looking to collaborate on FiveM Server development in my spare time
 - 📫 Contact me on daveyhoogland@outlook.com
 
 <!---
